@@ -20,3 +20,4 @@ script:
 after_script:
  - ln -s dist/hpc/mix/conduit-1.0.8 ./dist/hpc/mix/text
  - hpc-coveralls test
+{lakugaki}
